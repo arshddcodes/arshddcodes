@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <h1 align="center"> 👋, I'm Arshad kk</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
