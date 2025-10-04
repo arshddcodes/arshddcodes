@@ -1,9 +1,7 @@
 ## Hi there 
 
 <h1 align="center"> 👋, I'm Arshad kk</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js, Express.js, MongoDB**
+<h3 align="center">A passionate Front End developer from India</h3>
 
 - 📫 How to reach me **arshadkallankodan@gmail.com**
 
